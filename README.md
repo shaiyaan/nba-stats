@@ -13,7 +13,7 @@ Utilized Python to analyze NBA player statistics, focusing on identifying the mo
 - Pandas for data manipulation and analysis
 - NumPy for numerical computations
 - Matplotlib & Seaborn for statistical visualizations
-- Jupyter Notebook for development and documentation
-
+- Machine Learning: scikit-learn
+  
 ## Results
 Successfully identified and visualized top NBA performers across different statistical categories, providing clear insights into player performance metrics and oppontent team defense.
